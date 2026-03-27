@@ -11,10 +11,17 @@ namespace Assignment2
 
             checkDay();//Question 2
 
-            Arrays.Q1();//"Arrays"-->Question 1
+            Arrays.AQ1();//"Arrays"-->Question 1
 
-            Arrays.Q2();//"Arrays"-->Question 2
+            Arrays.AQ2();//"Arrays"-->Question 2
 
+            Arrays.AQ3();//"Arrays"-->Question 3
+
+            stringsAssignment.SQ1();//"stringsAssignment"-->Question 1
+
+            stringsAssignment.SQ2();//"stringsAssignment"-->Question 2
+
+            stringsAssignment.SQ3();//"stringsAssignment"-->Question 3
 
         }
 
@@ -31,6 +38,9 @@ namespace Assignment2
                 Console.WriteLine("{0} {1} {2} {3}", num , num , num, num);
                 Console.WriteLine("{0}{1}{2}{3}", num, num, num, num);
             }
+
+            Console.WriteLine("\n-----------------------------------------------");
+            Console.WriteLine();
         }
 
         //question 2
@@ -74,6 +84,8 @@ namespace Assignment2
                 default : Console.WriteLine("Invalid day");
                     break;
             }
+            Console.WriteLine("\n-----------------------------------------------");
+            Console.WriteLine();
         }
     }
 }

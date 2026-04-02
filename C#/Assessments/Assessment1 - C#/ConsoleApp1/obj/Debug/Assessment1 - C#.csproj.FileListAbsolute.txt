@@ -1,0 +1,14 @@
+C:\DotNet\C#\Assessments\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\DotNet\C#\Assessments\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\DotNet\C#\Assessments\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\DotNet\C#\Assessments\ConsoleApp1\ConsoleApp1\obj\Debug\Assessment1 - C#.csproj.AssemblyReference.cache
+C:\DotNet\C#\Assessments\ConsoleApp1\ConsoleApp1\obj\Debug\Assessment1 - C#.csproj.CoreCompileInputs.cache
+C:\DotNet\C#\Assessments\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\DotNet\C#\Assessments\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\DotNet\C#\Assessments\Assessment1 - C#\ConsoleApp1\obj\Debug\Assessment1 - C#.csproj.AssemblyReference.cache
+C:\DotNet\C#\Assessments\Assessment1 - C#\ConsoleApp1\obj\Debug\Assessment1 - C#.csproj.CoreCompileInputs.cache
+C:\DotNet\C#\Assessments\Assessment1 - C#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\DotNet\C#\Assessments\Assessment1 - C#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\DotNet\C#\Assessments\Assessment1 - C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\DotNet\C#\Assessments\Assessment1 - C#\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\DotNet\C#\Assessments\Assessment1 - C#\ConsoleApp1\bin\Debug\ConsoleApp1.pdb

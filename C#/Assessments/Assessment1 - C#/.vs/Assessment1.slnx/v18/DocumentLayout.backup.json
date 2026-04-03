@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\DotNet\\C#\\Assessments\\Assessment1 - C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3416C2BC-6CA4-47E5-8C26-5CCAB90896BF}|ConsoleApp1\\Assessment1 - C#.csproj|c:\\dotnet\\c#\\assessments\\assessment1 - c#\\consoleapp1\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3416C2BC-6CA4-47E5-8C26-5CCAB90896BF}|ConsoleApp1\\Assessment1 - C#.csproj|solutionrelative:consoleapp1\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet\\C#\\Assessments\\Assessment1 - C#\\ConsoleApp1\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3416C2BC-6CA4-47E5-8C26-5CCAB90896BF}|ConsoleApp1\\Assessment1 - C#.csproj|C:\\DotNet\\C#\\Assessments\\Assessment1 - C#\\consoleapp1\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3416C2BC-6CA4-47E5-8C26-5CCAB90896BF}|ConsoleApp1\\Assessment1 - C#.csproj|solutionrelative:consoleapp1\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet\\C#\\Assessments\\Assessment1 - C#\\ConsoleApp1\\Question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,12 +28,8 @@
         },
         {
           "DockedWidth": 391,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -44,8 +40,7 @@
               "RelativeToolTip": "ConsoleApp1\\Question1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T04:44:05.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T04:44:05.836Z"
             },
             {
               "$type": "Document",
@@ -55,10 +50,12 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\question2.cs",
               "ToolTip": "C:\\DotNet\\C#\\Assessments\\Assessment1 - C#\\ConsoleApp1\\question2.cs",
               "RelativeToolTip": "ConsoleApp1\\question2.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAIwCEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T06:05:39.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T06:05:39.358Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
             }
           ]
         },

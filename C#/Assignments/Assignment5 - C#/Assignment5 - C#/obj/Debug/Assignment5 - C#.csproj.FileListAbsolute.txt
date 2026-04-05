@@ -1,0 +1,7 @@
+C:\DotNet\C#\Assessments\Assignment5 - C#\Assignment5 - C#\bin\Debug\Assignment5 - C#.exe.config
+C:\DotNet\C#\Assessments\Assignment5 - C#\Assignment5 - C#\bin\Debug\Assignment5 - C#.exe
+C:\DotNet\C#\Assessments\Assignment5 - C#\Assignment5 - C#\bin\Debug\Assignment5 - C#.pdb
+C:\DotNet\C#\Assessments\Assignment5 - C#\Assignment5 - C#\obj\Debug\Assignment5 - C#.csproj.AssemblyReference.cache
+C:\DotNet\C#\Assessments\Assignment5 - C#\Assignment5 - C#\obj\Debug\Assignment5 - C#.csproj.CoreCompileInputs.cache
+C:\DotNet\C#\Assessments\Assignment5 - C#\Assignment5 - C#\obj\Debug\Assignment5 - C#.exe
+C:\DotNet\C#\Assessments\Assignment5 - C#\Assignment5 - C#\obj\Debug\Assignment5 - C#.pdb

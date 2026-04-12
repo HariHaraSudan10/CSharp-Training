@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\C#\\Assignments\\Assignment7 - C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90F7699D-E9CF-4A8F-B56A-81E18F89266E}|Assignment7 - C#\\Assignment7 - C#.csproj|c:\\dotnet\\c#\\assignments\\assignment7 - c#\\assignment7 - c#\\question4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F7699D-E9CF-4A8F-B56A-81E18F89266E}|Assignment7 - C#\\Assignment7 - C#.csproj|solutionrelative:assignment7 - c#\\question4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0182E261-1AA4-43A4-ABF7-5904A4CBAE12}|ReferenceQ4\\ReferenceQ4.csproj|c:\\dotnet\\c#\\assignments\\assignment7 - c#\\referenceq4\\travelconcession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0182E261-1AA4-43A4-ABF7-5904A4CBAE12}|ReferenceQ4\\ReferenceQ4.csproj|solutionrelative:referenceq4\\travelconcession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F7699D-E9CF-4A8F-B56A-81E18F89266E}|Assignment7 - C#\\Assignment7 - C#.csproj|c:\\dotnet\\c#\\assignments\\assignment7 - c#\\assignment7 - c#\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F7699D-E9CF-4A8F-B56A-81E18F89266E}|Assignment7 - C#\\Assignment7 - C#.csproj|solutionrelative:assignment7 - c#\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F7699D-E9CF-4A8F-B56A-81E18F89266E}|Assignment7 - C#\\Assignment7 - C#.csproj|c:\\dotnet\\c#\\assignments\\assignment7 - c#\\assignment7 - c#\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F7699D-E9CF-4A8F-B56A-81E18F89266E}|Assignment7 - C#\\Assignment7 - C#.csproj|solutionrelative:assignment7 - c#\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F7699D-E9CF-4A8F-B56A-81E18F89266E}|Assignment7 - C#\\Assignment7 - C#.csproj|c:\\dotnet\\c#\\assignments\\assignment7 - c#\\assignment7 - c#\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F7699D-E9CF-4A8F-B56A-81E18F89266E}|Assignment7 - C#\\Assignment7 - C#.csproj|solutionrelative:assignment7 - c#\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 950,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 454,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question1.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assignments\\Assignment7 - C#\\Assignment7 - C#\\Question1.cs",
+              "RelativeDocumentMoniker": "Assignment7 - C#\\Question1.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assignments\\Assignment7 - C#\\Assignment7 - C#\\Question1.cs",
+              "RelativeToolTip": "Assignment7 - C#\\Question1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T16:08:50.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question2.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assignments\\Assignment7 - C#\\Assignment7 - C#\\Question2.cs",
+              "RelativeDocumentMoniker": "Assignment7 - C#\\Question2.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assignments\\Assignment7 - C#\\Assignment7 - C#\\Question2.cs",
+              "RelativeToolTip": "Assignment7 - C#\\Question2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T16:37:34.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question3.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assignments\\Assignment7 - C#\\Assignment7 - C#\\Question3.cs",
+              "RelativeDocumentMoniker": "Assignment7 - C#\\Question3.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assignments\\Assignment7 - C#\\Assignment7 - C#\\Question3.cs",
+              "RelativeToolTip": "Assignment7 - C#\\Question3.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:03:32.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question4.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assignments\\Assignment7 - C#\\Assignment7 - C#\\Question4.cs",
+              "RelativeDocumentMoniker": "Assignment7 - C#\\Question4.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assignments\\Assignment7 - C#\\Assignment7 - C#\\Question4.cs",
+              "RelativeToolTip": "Assignment7 - C#\\Question4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:35:26.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TravelConcession.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assignments\\Assignment7 - C#\\ReferenceQ4\\TravelConcession.cs",
+              "RelativeDocumentMoniker": "ReferenceQ4\\TravelConcession.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assignments\\Assignment7 - C#\\ReferenceQ4\\TravelConcession.cs",
+              "RelativeToolTip": "ReferenceQ4\\TravelConcession.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T02:33:07.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

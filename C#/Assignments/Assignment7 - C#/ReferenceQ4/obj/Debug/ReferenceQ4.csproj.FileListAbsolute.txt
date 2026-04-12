@@ -1,0 +1,6 @@
+C:\DotNet\C#\Assignments\Assignment7 - C#\ReferenceQ4\bin\Debug\ReferenceQ4.dll
+C:\DotNet\C#\Assignments\Assignment7 - C#\ReferenceQ4\bin\Debug\ReferenceQ4.pdb
+C:\DotNet\C#\Assignments\Assignment7 - C#\ReferenceQ4\obj\Debug\ReferenceQ4.csproj.AssemblyReference.cache
+C:\DotNet\C#\Assignments\Assignment7 - C#\ReferenceQ4\obj\Debug\ReferenceQ4.csproj.CoreCompileInputs.cache
+C:\DotNet\C#\Assignments\Assignment7 - C#\ReferenceQ4\obj\Debug\ReferenceQ4.dll
+C:\DotNet\C#\Assignments\Assignment7 - C#\ReferenceQ4\obj\Debug\ReferenceQ4.pdb

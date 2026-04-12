@@ -1,0 +1,10 @@
+C:\DotNet\C#\Assignments\Assignment7 - C#\Assignment7 - C#\bin\Debug\Assignment7 - C#.exe.config
+C:\DotNet\C#\Assignments\Assignment7 - C#\Assignment7 - C#\bin\Debug\Assignment7 - C#.exe
+C:\DotNet\C#\Assignments\Assignment7 - C#\Assignment7 - C#\bin\Debug\Assignment7 - C#.pdb
+C:\DotNet\C#\Assignments\Assignment7 - C#\Assignment7 - C#\obj\Debug\Assignment7 - C#.csproj.AssemblyReference.cache
+C:\DotNet\C#\Assignments\Assignment7 - C#\Assignment7 - C#\obj\Debug\Assignment7 - C#.csproj.CoreCompileInputs.cache
+C:\DotNet\C#\Assignments\Assignment7 - C#\Assignment7 - C#\obj\Debug\Assignment7 - C#.exe
+C:\DotNet\C#\Assignments\Assignment7 - C#\Assignment7 - C#\obj\Debug\Assignment7 - C#.pdb
+C:\DotNet\C#\Assignments\Assignment7 - C#\Assignment7 - C#\bin\Debug\ReferenceQ4.dll
+C:\DotNet\C#\Assignments\Assignment7 - C#\Assignment7 - C#\bin\Debug\ReferenceQ4.pdb
+C:\DotNet\C#\Assignments\Assignment7 - C#\Assignment7 - C#\obj\Debug\Assignme.BDADE8C1.Up2Date

@@ -1,0 +1,14 @@
+C:\HandsOn-C#\RemotingPrj\Assessment3 - C#\Assessment3 - C#\bin\Debug\Assessment3 - C#.exe.config
+C:\HandsOn-C#\RemotingPrj\Assessment3 - C#\Assessment3 - C#\bin\Debug\Assessment3 - C#.exe
+C:\HandsOn-C#\RemotingPrj\Assessment3 - C#\Assessment3 - C#\bin\Debug\Assessment3 - C#.pdb
+C:\HandsOn-C#\RemotingPrj\Assessment3 - C#\Assessment3 - C#\obj\Debug\Assessment3 - C#.csproj.AssemblyReference.cache
+C:\HandsOn-C#\RemotingPrj\Assessment3 - C#\Assessment3 - C#\obj\Debug\Assessment3 - C#.csproj.CoreCompileInputs.cache
+C:\HandsOn-C#\RemotingPrj\Assessment3 - C#\Assessment3 - C#\obj\Debug\Assessment3 - C#.exe
+C:\HandsOn-C#\RemotingPrj\Assessment3 - C#\Assessment3 - C#\obj\Debug\Assessment3 - C#.pdb
+C:\DotNet\C#\Assessments\Assessment3 - C#\Assessment3 - C#\bin\Debug\Assessment3 - C#.exe.config
+C:\DotNet\C#\Assessments\Assessment3 - C#\Assessment3 - C#\bin\Debug\Assessment3 - C#.exe
+C:\DotNet\C#\Assessments\Assessment3 - C#\Assessment3 - C#\bin\Debug\Assessment3 - C#.pdb
+C:\DotNet\C#\Assessments\Assessment3 - C#\Assessment3 - C#\obj\Debug\Assessment3 - C#.csproj.AssemblyReference.cache
+C:\DotNet\C#\Assessments\Assessment3 - C#\Assessment3 - C#\obj\Debug\Assessment3 - C#.csproj.CoreCompileInputs.cache
+C:\DotNet\C#\Assessments\Assessment3 - C#\Assessment3 - C#\obj\Debug\Assessment3 - C#.exe
+C:\DotNet\C#\Assessments\Assessment3 - C#\Assessment3 - C#\obj\Debug\Assessment3 - C#.pdb

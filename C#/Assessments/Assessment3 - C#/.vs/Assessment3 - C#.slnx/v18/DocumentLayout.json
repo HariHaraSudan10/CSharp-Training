@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\C#\\Assessments\\Assessment3 - C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEEE1B3-995E-4971-9F6E-D1555BDD4C80}|Assessment3 - C#\\Assessment3 - C#.csproj|c:\\dotnet\\c#\\assessments\\assessment3 - c#\\assessment3 - c#\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEEE1B3-995E-4971-9F6E-D1555BDD4C80}|Assessment3 - C#\\Assessment3 - C#.csproj|solutionrelative:assessment3 - c#\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEEE1B3-995E-4971-9F6E-D1555BDD4C80}|Assessment3 - C#\\Assessment3 - C#.csproj|c:\\dotnet\\c#\\assessments\\assessment3 - c#\\assessment3 - c#\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEEE1B3-995E-4971-9F6E-D1555BDD4C80}|Assessment3 - C#\\Assessment3 - C#.csproj|solutionrelative:assessment3 - c#\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEEE1B3-995E-4971-9F6E-D1555BDD4C80}|Assessment3 - C#\\Assessment3 - C#.csproj|c:\\dotnet\\c#\\assessments\\assessment3 - c#\\assessment3 - c#\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEEE1B3-995E-4971-9F6E-D1555BDD4C80}|Assessment3 - C#\\Assessment3 - C#.csproj|solutionrelative:assessment3 - c#\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 950,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 454,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question1.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assessments\\Assessment3 - C#\\Assessment3 - C#\\Question1.cs",
+              "RelativeDocumentMoniker": "Assessment3 - C#\\Question1.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assessments\\Assessment3 - C#\\Assessment3 - C#\\Question1.cs",
+              "RelativeToolTip": "Assessment3 - C#\\Question1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA0wC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:15:55.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question2.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assessments\\Assessment3 - C#\\Assessment3 - C#\\Question2.cs",
+              "RelativeDocumentMoniker": "Assessment3 - C#\\Question2.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assessments\\Assessment3 - C#\\Assessment3 - C#\\Question2.cs",
+              "RelativeToolTip": "Assessment3 - C#\\Question2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:48:17.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question3.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assessments\\Assessment3 - C#\\Assessment3 - C#\\Question3.cs",
+              "RelativeDocumentMoniker": "Assessment3 - C#\\Question3.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assessments\\Assessment3 - C#\\Assessment3 - C#\\Question3.cs",
+              "RelativeToolTip": "Assessment3 - C#\\Question3.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:58:11.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

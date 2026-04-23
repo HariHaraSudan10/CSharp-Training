@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|c:\\dotnet\\c#\\assessments\\assessment4 - c#\\assessment4 - c#\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|solutionrelative:assessment4 - c#\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|c:\\dotnet\\c#\\assessments\\assessment4 - c#\\assessment4 - c#\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|solutionrelative:assessment4 - c#\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|c:\\dotnet\\c#\\assessments\\assessment4 - c#\\assessment4 - c#\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|solutionrelative:assessment4 - c#\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|c:\\dotnet\\c#\\assessments\\assessment4 - c#\\assessment4 - c#\\reports\\chartreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|solutionrelative:assessment4 - c#\\reports\\chartreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|c:\\dotnet\\c#\\assessments\\assessment4 - c#\\assessment4 - c#\\reports\\tabularreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|solutionrelative:assessment4 - c#\\reports\\tabularreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|c:\\dotnet\\c#\\assessments\\assessment4 - c#\\assessment4 - c#\\reports\\summaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|solutionrelative:assessment4 - c#\\reports\\summaryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|c:\\dotnet\\c#\\assessments\\assessment4 - c#\\assessment4 - c#\\interface\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352F334-AD71-47A9-8C2F-3BBE8709C7C9}|Assessment4 - C#\\Assessment4 - C#.csproj|solutionrelative:assessment4 - c#\\interface\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 950,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 259,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question1.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Question1.cs",
+              "RelativeDocumentMoniker": "Assessment4 - C#\\Question1.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Question1.cs",
+              "RelativeToolTip": "Assessment4 - C#\\Question1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:21:23.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question2.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Question2.cs",
+              "RelativeDocumentMoniker": "Assessment4 - C#\\Question2.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Question2.cs",
+              "RelativeToolTip": "Assessment4 - C#\\Question2.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAIA4wCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:41:31.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReport.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Interface\\IReport.cs",
+              "RelativeDocumentMoniker": "Assessment4 - C#\\Interface\\IReport.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Interface\\IReport.cs",
+              "RelativeToolTip": "Assessment4 - C#\\Interface\\IReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:47:56.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChartReport.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Reports\\ChartReport.cs",
+              "RelativeDocumentMoniker": "Assessment4 - C#\\Reports\\ChartReport.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Reports\\ChartReport.cs",
+              "RelativeToolTip": "Assessment4 - C#\\Reports\\ChartReport.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:53:35.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TabularReport.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Reports\\TabularReport.cs",
+              "RelativeDocumentMoniker": "Assessment4 - C#\\Reports\\TabularReport.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Reports\\TabularReport.cs",
+              "RelativeToolTip": "Assessment4 - C#\\Reports\\TabularReport.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:55:41.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SummaryReport.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Reports\\SummaryReport.cs",
+              "RelativeDocumentMoniker": "Assessment4 - C#\\Reports\\SummaryReport.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Reports\\SummaryReport.cs",
+              "RelativeToolTip": "Assessment4 - C#\\Reports\\SummaryReport.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T04:56:35.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question3.cs",
+              "DocumentMoniker": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Question3.cs",
+              "RelativeDocumentMoniker": "Assessment4 - C#\\Question3.cs",
+              "ToolTip": "C:\\DotNet\\C#\\Assessments\\Assessment4 - C#\\Assessment4 - C#\\Question3.cs",
+              "RelativeToolTip": "Assessment4 - C#\\Question3.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEYAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:20:19.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 56,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

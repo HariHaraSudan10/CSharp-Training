@@ -96,7 +96,7 @@ INSERT INTO holiday VALUES
 ('2026-04-29', 'Spl Holiday')
 
 
-CREATE TRIGGER trg_blockonholiday
+CREATE OR ALTER TRIGGER trg_blockonholiday
 ON Emp
 AFTER INSERT, UPDATE, DELETE
 AS

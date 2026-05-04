@@ -1,0 +1,66 @@
+ClientRental(UNF),,,,,,,,,
+,ClientNo,cName,propertyNo,pAddress,rentStart,renyFinish,rent,ownerNo,oName
+,CR76,john kay,PG4 ,"6 lawrence st, glasgow",1-Jul-00,31-Aug-01,350,CO40,tina murphy
+,,,PG16,"5 novar Dr, glasglw",1-Sep-02,1-Sep-02,450,CO93,tony shaw
+,CR56,aline stewart,PG4 ,"6 lawrence st, glasgow",1-Sep-99,10-Jun-00,350,CO40,tina murphy
+,,,PG36,"2 manor Rd, glasgow",10-Oct-00,1-Dec-01,370,CO93,tony shaw
+,,,PG16,"5 novar Dr, glasglw",1-Nov-02,1-Aug-03,450,CO93,tony shaw
+,,,,,,,,,
+ClientRental(1NF),,,,,,,,,
+,ClientNo,cName,propertyNo,pAddress,rentStart,renyFinish,rent,ownerNo,oName
+,CR76,john kay,PG4 ,"6 lawrence st, glasgow",1-Jul-00,31-Aug-01,350,CO40,tina murphy
+,,,PG16,"5 novar Dr, glasglw",1-Sep-02,1-Sep-02,450,CO93,tony shaw
+,CR56,aline stewart,PG4 ,"6 lawrence st, glasgow",1-Sep-99,10-Jun-00,350,CO40,tina murphy
+,,,PG36,"2 manor Rd, glasgow",10-Oct-00,1-Dec-01,370,CO93,tony shaw
+,,,PG16,"5 novar Dr, glasglw",1-Nov-02,1-Aug-03,450,CO93,tony shaw
+,,,,,,,,,
+2NF,,,,,,,,,
+,,,,,,,,,
+clientTable,,,,,,,,,
+,ClientNo,cName,,,,,,,
+,CR76,john kay,,,,,,,
+,CR56,aline stewart,,,,,,,
+,,,,,,,,,
+propertyTable,,,,,,,,,
+,propertyNo,pAddress,rent,ownerNo,oName,,,,
+,PG4 ,"6 lawrence st, glasgow",350,CO40,tina murphy,,,,
+,PG16,"5 novar Dr, glasglw",450,CO93,tony shaw,,,,
+,PG36,"2 manor Rd, glasgow",370,CO93,tony shaw,,,,
+,,,,,,,,,
+rentalTable,,,,,,,,,
+,ClientNo,propertyNo,rentStart,rentFinish,,,,,
+,CR76,PG4 ,1-Jul-00,31-Aug-01,,,,,
+,CR76,PG16,1-Sep-02,1-Sep-02,,,,,
+,CR56,PG4 ,1-Sep-99,10-Jun-00,,,,,
+,CR56,PG36,10-Oct-00,1-Dec-01,,,,,
+,CR56,PG16,1-Nov-02,1-Aug-03,,,,,
+,,,,,,,,,
+,,,,,,,,,
+3NF,,,,,,,,,
+,,,,,,,,,
+clientTable,,,,,,,,,
+,ClientNo,cName,,,,,,,
+,CR76,john kay,,,,,,,
+,CR56,aline stewart,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+owner,,,,,,,,,
+,ownerNo,oName,,,,,,,
+,CO40,tina murphy,,,,,,,
+,CO93,tony shaw,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+propertyTable,,,,,,,,,
+,propertyNo,pAddress,rent,ownerNo,,,,,
+,PG4 ,"6 lawrence st, glasgow",350,CO40,,,,,
+,PG16,"5 novar Dr, glasglw",450,CO93,,,,,
+,PG36,"2 manor Rd, glasgow",370,CO93,,,,,
+,,,,,,,,,
+,,,,,,,,,
+rentalTable,,,,,,,,,
+,ClientNo,propertyNo,rentStart,rentFinish,,,,,
+,CR76,PG4 ,1-Jul-00,31-Aug-01,,,,,
+,CR76,PG16,1-Sep-02,1-Sep-02,,,,,
+,CR56,PG4 ,1-Sep-99,10-Jun-00,,,,,
+,CR56,PG36,10-Oct-00,1-Dec-01,,,,,
+,CR56,PG16,1-Nov-02,1-Aug-03,,,,,

@@ -67,6 +67,7 @@ SELECT * FROM Employee;
 COMMIT TRANSACTION;
 SELECT * FROM Employee;
 
+
 --5.Create a user defined function calculate Bonus for all employees of a given dept 
 --using following conditions
 --	a.For Deptno 10 employees 15% of sal as bonus.

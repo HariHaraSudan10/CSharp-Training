@@ -1,0 +1,43 @@
+﻿﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <srcipt src="https://code.jquery.com/jquery-4.0.0.js"></srcipt>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.4.1.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('button').click(function () {
+                $.ajax({
+                    url: "Data.txt", success: function (result) {
+                        $('#div1').html(result);
+                    }
+                })
+            });
+                //with jquery load
+                //$('#div1').load("Data.txt", function (responsetxt, statustxt, r) {
+                //    if (statustxt == 'success')
+                //        alert("External Content loaded successfully");
+                //    if (statustxt == 'error')
+                //        alert("Error : " + r.status + " " + r.statustxt)
+                //});
+            //});
+        });
+    </script>
+</head>
+<body>
+    <div id="div1">
+        <h2>Let the AJAX call bring in some changes to the Document</h2>
+    </div>
+    <br /><br />
+    <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ol>
+    <br />
+    <button>Make an Ajax call</button>
+</body>
+</html>

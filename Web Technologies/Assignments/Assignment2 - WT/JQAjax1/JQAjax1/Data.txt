@@ -1,0 +1,4 @@
+﻿﻿<h1>This is an Example for JQuery with AJAX !!</h1>
+<div style="background-color:blue;">A wonderful Combination
+  <p style="color:white;">This is a paragraph element</p>
+</div>

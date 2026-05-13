@@ -1,0 +1,7 @@
+C:\DotNet\Web Technologies\Assignments\Assignment2 - WT\Assessment1_ADO\Assessment1_ADO\bin\Debug\Assessment1_ADO.exe.config
+C:\DotNet\Web Technologies\Assignments\Assignment2 - WT\Assessment1_ADO\Assessment1_ADO\bin\Debug\Assessment1_ADO.exe
+C:\DotNet\Web Technologies\Assignments\Assignment2 - WT\Assessment1_ADO\Assessment1_ADO\bin\Debug\Assessment1_ADO.pdb
+C:\DotNet\Web Technologies\Assignments\Assignment2 - WT\Assessment1_ADO\Assessment1_ADO\obj\Debug\Assessment1_ADO.csproj.AssemblyReference.cache
+C:\DotNet\Web Technologies\Assignments\Assignment2 - WT\Assessment1_ADO\Assessment1_ADO\obj\Debug\Assessment1_ADO.csproj.CoreCompileInputs.cache
+C:\DotNet\Web Technologies\Assignments\Assignment2 - WT\Assessment1_ADO\Assessment1_ADO\obj\Debug\Assessment1_ADO.exe
+C:\DotNet\Web Technologies\Assignments\Assignment2 - WT\Assessment1_ADO\Assessment1_ADO\obj\Debug\Assessment1_ADO.pdb

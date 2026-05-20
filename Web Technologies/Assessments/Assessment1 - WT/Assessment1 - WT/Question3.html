@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Question 3</title>
+</head>
+<body>
+    <!--3. Write a JavaScript program that creates a button and add a click event listener
+    to log a message when it's clicked.-->
+
+    <h2>Click Event Listener</h2>
+    <button id="btn1">Click Me</button>
+
+    <script>
+        let button = document.getElementById("btn1");
+
+        button.addEventListener("click", function () {
+            console.log("Button was clicked!");
+            window.alert("Click Me: SomeOne clicked ME !!!");
+        });
+    </script>
+
+</body>
+</html>

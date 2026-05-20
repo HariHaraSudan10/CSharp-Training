@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Queston 8</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <!--8. Append a <p> element with a text message when an <input> field is changed.-->
+
+    <h2>Type something...</h2>
+    <input type="text" id="input" placeholder="Type something here..." />
+
+    <script>
+        $(document).ready(function () {
+            $("#input").change(function () {
+                let txt = $(this).val();
+                $("body").append("<p>You have changed the input field by typing: " + txt + "</p>");
+            });
+        });
+    </script>
+</body>
+</html>

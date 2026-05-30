@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AddEditMenu.aspx.cs" Inherits="Assessment1___ASP.AddEditMenu" %>
+﻿<%@ Page Title="Add/Edit Menu" Language="C#" AutoEventWireup="true" CodeBehind="AddEditMenu.aspx.cs" Inherits="Assessment1___ASP.AddEditMenu" %>
 
 <!DOCTYPE html>
 

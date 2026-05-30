@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\DotNet\\Web Technologies\\Assessments\\Assessment1 - WT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F93228D-9D1F-403E-BDC8-C10C13ABE80A}|Assessment1 - WT\\Assessment1 - WT.csproj|C:\\DotNet\\Web Technologies\\Assessments\\Assessment1 - WT\\assessment1 - wt\\question6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1F93228D-9D1F-403E-BDC8-C10C13ABE80A}|Assessment1 - WT\\Assessment1 - WT.csproj|c:\\dotnet\\web technologies\\assessments\\assessment1 - wt\\assessment1 - wt\\question6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F93228D-9D1F-403E-BDC8-C10C13ABE80A}|Assessment1 - WT\\Assessment1 - WT.csproj|solutionrelative:assessment1 - wt\\question6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F93228D-9D1F-403E-BDC8-C10C13ABE80A}|Assessment1 - WT\\Assessment1 - WT.csproj|c:\\dotnet\\web technologies\\assessments\\assessment1 - wt\\assessment1 - wt\\question8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1F93228D-9D1F-403E-BDC8-C10C13ABE80A}|Assessment1 - WT\\Assessment1 - WT.csproj|C:\\DotNet\\Web Technologies\\Assessments\\Assessment1 - WT\\assessment1 - wt\\question8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1F93228D-9D1F-403E-BDC8-C10C13ABE80A}|Assessment1 - WT\\Assessment1 - WT.csproj|solutionrelative:assessment1 - wt\\question8.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Assessment1 - WT\\Question8.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-05-20T07:46:20.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T07:46:20.586Z"
             },
             {
               "$type": "Document",

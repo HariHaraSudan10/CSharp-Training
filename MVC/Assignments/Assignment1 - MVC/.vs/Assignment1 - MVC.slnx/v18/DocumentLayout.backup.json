@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|c:\\dotnet\\mvc\\assignments\\assignment1 - mvc\\assignment1 - mvc\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|solutionrelative:assignment1 - mvc\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|c:\\dotnet\\mvc\\assignments\\assignment1 - mvc\\assignment1 - mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|solutionrelative:assignment1 - mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|c:\\dotnet\\mvc\\assignments\\assignment1 - mvc\\assignment1 - mvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|solutionrelative:assignment1 - mvc\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|c:\\dotnet\\mvc\\assignments\\assignment1 - mvc\\assignment1 - mvc\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|solutionrelative:assignment1 - mvc\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|c:\\dotnet\\mvc\\assignments\\assignment1 - mvc\\assignment1 - mvc\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|solutionrelative:assignment1 - mvc\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|c:\\dotnet\\mvc\\assignments\\assignment1 - mvc\\assignment1 - mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|solutionrelative:assignment1 - mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|c:\\dotnet\\mvc\\assignments\\assignment1 - mvc\\assignment1 - mvc\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|solutionrelative:assignment1 - mvc\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|c:\\dotnet\\mvc\\assignments\\assignment1 - mvc\\assignment1 - mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|solutionrelative:assignment1 - mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|c:\\dotnet\\mvc\\assignments\\assignment1 - mvc\\assignment1 - mvc\\repositories\\icontactrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|solutionrelative:assignment1 - mvc\\repositories\\icontactrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|c:\\dotnet\\mvc\\assignments\\assignment1 - mvc\\assignment1 - mvc\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|solutionrelative:assignment1 - mvc\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|c:\\dotnet\\mvc\\assignments\\assignment1 - mvc\\assignment1 - mvc\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43090232-4BA9-453C-A9BA-5EE8859DA3B3}|Assignment1 - MVC\\Assignment1 - MVC.csproj|solutionrelative:assignment1 - mvc\\models\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Views\\Contact\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment1 - MVC\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Views\\Contact\\Create.cshtml*",
+              "RelativeToolTip": "Assignment1 - MVC\\Views\\Contact\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:25:27.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Views\\Contact\\Details.cshtml",
+              "RelativeDocumentMoniker": "Assignment1 - MVC\\Views\\Contact\\Details.cshtml",
+              "ToolTip": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Views\\Contact\\Details.cshtml",
+              "RelativeToolTip": "Assignment1 - MVC\\Views\\Contact\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:29:48.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Views\\Contact\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment1 - MVC\\Views\\Contact\\Edit.cshtml",
+              "ToolTip": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Views\\Contact\\Edit.cshtml",
+              "RelativeToolTip": "Assignment1 - MVC\\Views\\Contact\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:30:58.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Assignment1 - MVC\\Models\\Contact.cs",
+              "ToolTip": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Models\\Contact.cs",
+              "RelativeToolTip": "Assignment1 - MVC\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:12:36.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Assignment1 - MVC\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Assignment1 - MVC\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:14:02.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Web.config",
+              "RelativeDocumentMoniker": "Assignment1 - MVC\\Web.config",
+              "ToolTip": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Web.config",
+              "RelativeToolTip": "Assignment1 - MVC\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-30T08:32:50.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Views\\Contact\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Assignment1 - MVC\\Views\\Contact\\Delete.cshtml",
+              "ToolTip": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Views\\Contact\\Delete.cshtml",
+              "RelativeToolTip": "Assignment1 - MVC\\Views\\Contact\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:27:18.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment1 - MVC\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Assignment1 - MVC\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T08:22:28.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IContactRepositories.cs",
+              "DocumentMoniker": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Repositories\\IContactRepositories.cs",
+              "RelativeDocumentMoniker": "Assignment1 - MVC\\Repositories\\IContactRepositories.cs",
+              "ToolTip": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Repositories\\IContactRepositories.cs",
+              "RelativeToolTip": "Assignment1 - MVC\\Repositories\\IContactRepositories.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:20:24.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Assignment1 - MVC\\Repositories\\ContactRepository.cs",
+              "ToolTip": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "Assignment1 - MVC\\Repositories\\ContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T08:18:40.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Models\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Assignment1 - MVC\\Models\\Model1.Context.cs",
+              "ToolTip": "C:\\DotNet\\MVC\\Assignments\\Assignment1 - MVC\\Assignment1 - MVC\\Models\\Model1.Context.cs",
+              "RelativeToolTip": "Assignment1 - MVC\\Models\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T09:05:45.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 45,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

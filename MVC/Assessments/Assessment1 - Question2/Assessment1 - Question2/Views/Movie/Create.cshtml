@@ -1,0 +1,26 @@
+﻿@model Assessment1___Question2.Models.Movie
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Add Movie</h2>
+
+
+@using (Html.BeginForm())
+{
+    <p>Movie Name</p>
+    @Html.TextBoxFor(x => x.Moviename)
+
+    <p>Director Name</p>
+    @Html.TextBoxFor(x => x.DirectorName)
+
+    <p>Date Of Release</p>
+    @Html.TextBoxFor(x => x.DateofRelease,
+                     "{0:yyyy-MM-dd}",
+                     new { type = "date" })
+
+    <br />
+    <br />
+
+    <input type="submit" value="Save" />
+}

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Assessment1___Question1.Models.Customer>
+@{
+    ViewBag.Title = "GermanyCustomers";
+}
+
+<h2>GermanyCustomers</h2>
+
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+</style>
+
+<table border="1">
+    <tr>
+        <th>CustomerID</th>
+        <th>CompanyName</th>
+        <th>ContactName</th>
+        <th>ContactTitle</th>
+        <th>Address</th>
+        <th>City</th>
+        <th>Region</th>
+        <th>PostalCode</th>
+        <th>Country</th>
+        <th>Phone</th>
+        <th>Fax</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CustomerID</td>
+            <td>@item.CompanyName</td>
+            <td>@item.ContactName</td>
+            <td>@item.ContactTitle</td>
+            <td>@item.Address</td>
+            <td>@item.City</td>
+            <td>@item.Region</td>
+            <td>@item.PostalCode</td>
+            <td>@item.Country</td>
+            <td>@item.Phone</td>
+            <td>@item.Fax</td>
+        </tr>
+    }
+</table>

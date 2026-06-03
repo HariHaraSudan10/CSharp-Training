@@ -1,0 +1,55 @@
+﻿@model Assessment1___Question1.Models.Customer
+@{
+    ViewBag.Title = "CustomerByOrderId";
+}
+
+<h2>CustomerByOrderId</h2>
+
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    th, td {
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+</style>
+
+<table border="1">
+    <tr>
+        <th>OrderID</th>
+        <th>CustomerID</th>
+        <th>CompanyName</th>
+        <th>ContactName</th>
+        <th>ContactTitle</th>
+        <th>Address</th>
+        <th>City</th>
+        <th>Region</th>
+        <th>PostalCode</th>
+        <th>Country</th>
+        <th>Phone</th>
+        <th>Fax</th>
+    </tr>
+    <tr>
+        <td>@ViewBag.OrderID</td>
+        <td>@Model.CustomerID</td>
+        <td>@Model.CompanyName</td>
+        <td>@Model.ContactName</td>
+        <td>@Model.ContactTitle</td>
+        <td>@Model.Address</td>
+        <td>@Model.City</td>
+        <td>@Model.Region</td>
+        <td>@Model.PostalCode</td>
+        <td>@Model.Country</td>
+        <td>@Model.Phone</td>
+        <td>@Model.Fax</td>
+    </tr>
+
+</table>
+
